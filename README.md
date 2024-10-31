@@ -2,7 +2,6 @@
 
 ## Hello, world! 👋 Soy **Fran Aldeguer** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 
-<!--<a href="https://franaldeguer-cv.netlify.app" alt="CV Fran Aldeguer"><img src="icons/web.svg" alt="XCode" width="25" height="25"/></a>-->
 
 <a href="https://linkedin.com/in/franaldeguer" alt="Linkedin Fran Aldeguer"><img src="icons/linkedin.svg" alt="XCode" width="25" height="25"/></a>
 
@@ -73,6 +72,7 @@ No dudes en contactarme para charlar de cualquier cosa (incluso hasta para una c
 ### ¡Gracias por visitar mi perfil! 😊 
 Si tienes alguna colaboración en mente, o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
+<!--<a href="https://franaldeguer-cv.netlify.app" alt="CV Fran Aldeguer"><img src="icons/web.svg" alt="XCode" width="25" height="25"/></a>-->
 
 <!-- 
 ## 🚀 Proyectos Destacados
