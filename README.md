@@ -1,10 +1,7 @@
-<div style="display: flex; gap: 1rem; align-items: end;">
+<div style="display: flex; gap: 200rem; align-items: end;">
 
-## Hello, world! 👋 Soy **Fran Aldeguer** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-
-
+## ¡Hola Mundo!👋 Soy **Fran Aldeguer**
 <a href="https://linkedin.com/in/franaldeguer" alt="Linkedin Fran Aldeguer"><img src="icons/linkedin.svg" alt="XCode" width="25" height="25"/></a>
-
 <a href="https://github.com/FranAldeguer" alt="Linkedin Fran Aldeguer"><img src="icons/github.svg" alt="XCode" width="25" height="25"/></a>
 </div>
 
@@ -71,6 +68,11 @@ No dudes en contactarme para charlar de cualquier cosa (incluso hasta para una c
 
 ### ¡Gracias por visitar mi perfil! 😊 
 Si tienes alguna colaboración en mente, o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
+
+<div style="display: flex; gap: 1.5rem">
+<a href="https://linkedin.com/in/franaldeguer" alt="Linkedin Fran Aldeguer"><img src="icons/linkedin.svg" alt="XCode" width="25" height="25"/></a>
+<a href="https://github.com/FranAldeguer" alt="Linkedin Fran Aldeguer"><img src="icons/github.svg" alt="XCode" width="25" height="25"/></a>
+</div>
 
 <!--<a href="https://franaldeguer-cv.netlify.app" alt="CV Fran Aldeguer"><img src="icons/web.svg" alt="XCode" width="25" height="25"/></a>-->
 
