@@ -41,7 +41,7 @@ No dudes en contactarme para charlar de cualquier cosa (incluso hasta para una c
     <img src="icons/mysql.svg" alt="mysql" width="40" height="40"/> 
 </div><br>
 
-**Frameworks:**
+**Estudiando:**
 <div style="display: flex; gap: 1.5rem">
     <img src="icons/react.svg" alt="React" width="40" height="40"/>
     <img src="icons/laravel.svg" alt="Laravel" width="40" height="40"/>
